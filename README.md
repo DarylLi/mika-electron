@@ -1,2 +1,2 @@
-# -mika-electron
+# mika-electron
 electron project of mika-mmd
